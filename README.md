@@ -25,7 +25,9 @@ sentiment_analysis/
 │
 ├── code/
 │   └── sentiment_analysis.ipynb   # Main Jupyter Notebook
-│── customer_reviews.xlxs   #dataset
+|
+│── customer_reviews.xlsx   #dataset
+|
 └── README.md
 ```
 
